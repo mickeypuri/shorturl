@@ -1,0 +1,2 @@
+export const NUMBER_TO_ENCODE = 1234567890
+export const BASE62_ENCODED_VALUE = "1ly7vk"
